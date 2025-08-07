@@ -4,4 +4,4 @@
 - [Что вообще такое "Бирюза"?](https://github.com/teal-by/information-board/blob/main/what-is-teal.md)
 - [Зачем я здесь (что я могу получить)?](https://github.com/teal-by/information-board/blob/main/why-i-am-here.md)
 - [Правила сообщества](https://github.com/teal-by/information-board/blob/main/rules-and-values.md)
-- Структура сообщества, роли и люди
+- [Структура сообщества, роли и люди](https://github.com/teal-by/information-board/blob/main/structure-roles-people.md)
